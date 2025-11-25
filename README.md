@@ -1,6 +1,6 @@
-# 🎨 Polargraph Drawing Robot
+# 🎨 Drawing Robot
 
-The **Polargraph Drawing Robot** transforms digital images into **real drawings** on a flat surface using a **polar coordinate system**.  
+The **Drawing Robot** transforms digital images into **real drawings** on a flat surface using a **polar coordinate system**.  
 Two stepper motors move the stylus with high precision, enabling the automated creation of various shapes, patterns, and artistic images.
 
 
@@ -28,9 +28,9 @@ The project demonstrates the intersection of **technology and creativity**, maki
 
 ---
 
-## 🌐 Connect with Us
-Connect with the project team on LinkedIn:  
-- [Sleman]()  
+## 👨‍💻 Contributors:
+Special thanks to :
+- **Sulaiman Sulaiman** [LinkedIn](https://www.linkedin.com/in/sulaiman-sulaiman-98355238a)  
 
 
 ---
@@ -43,6 +43,8 @@ Connect with the project team on LinkedIn:
 ---
 
 ## 📸 Demo
+
+**Coming soon!**
 
 ---
 
