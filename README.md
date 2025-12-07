@@ -1,12 +1,23 @@
 # 🎨 Drawing Robot
 
-The **Drawing Robot** transforms digital images into **real drawings** on a flat surface using a **polar coordinate system**.  
-Two stepper motors move the stylus with high precision, enabling the automated creation of various shapes, patterns, and artistic images.
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
 
 ---
 
+
+
+
 ## 💡 Project Overview
+
+The **Drawing Robot** transforms digital images into **real drawings** on a flat surface using a **polar coordinate system**.  
+Two stepper motors move the stylus with high precision, enabling the automated creation of various shapes, patterns, and artistic images.
+
 The robot uses **digital image input** to generate precise drawing commands.  
 Through its **polar coordinate system**, the robot translates the commands into **controlled movements of the stylus**, producing accurate and automated artwork on a canvas or paper.  
 
